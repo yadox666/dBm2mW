@@ -12,12 +12,13 @@ The functions ar very usefull to be included in Wi-Fi scripts where
 you have to convert RF values in both units. Feel free to use or
 include it in your own scripts.
 
-Yago Hansen
+*Yago Hansen*
 
-#Samples:
+## Samples:
 
-'python dBm2mW.py 9.23dBm'
-'python dBm2mW.py 1000mW'
-'python dBm2mW.py 9,23 dBm'
-
+```
+python dBm2mW.py 9.23dBm
+python dBm2mW.py 1000mW
+python dBm2mW.py 9,23 dBm
+```
 
