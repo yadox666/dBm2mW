@@ -14,11 +14,17 @@ include it in your own scripts.
 
 *Yago Hansen*
 
+
 ## Samples:
 
 ```
-python dBm2mW.py 9.23dBm
+python dBm2mW.py -12.3 dBm
+-12.30 dBm = 0.0588843655 mW
+
 python dBm2mW.py 1000mW
+1000 mW = 30.00 dBm
+
 python dBm2mW.py 9,23 dBm
+9.23 dBm = 8 mW
 ```
 
